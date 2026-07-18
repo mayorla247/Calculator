@@ -1,7 +1,7 @@
-Enter first number:
-Enter second number:
-Дараа нь дараахыг хэвлэ.
-Sum:
-Difference:
-Product:
-Division:
+<br>Enter first number:</br>
+<br>Enter second number:</br>
+<br>Дараа нь дараахыг хэвлэ.</br>
+<br>Sum:</br>
+<br>Difference:</br>
+<br>Product:</br>
+<br>Division:</br>
