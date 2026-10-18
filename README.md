@@ -1,4 +1,4 @@
-<br>Enter first number:</br>
+baina<br>Enter first number:</br>
 <br>Enter second number:</br>
 <br>Дараа нь дараахыг хэвлэ.</br>
 <br>Sum:</br>
